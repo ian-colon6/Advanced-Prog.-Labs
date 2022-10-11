@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "s21-lab05-review-lab-ian-colon6",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp",
+			"xstring": "cpp",
+			"vector": "cpp",
+			"cmath": "cpp"
+		}
+	}
+}
